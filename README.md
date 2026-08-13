@@ -1,5 +1,14 @@
 # Enhanced DeepFM Optimization: Quantization, Pruning, and Distillation for Recommender Systems
 
+## 📄 Publication
+
+This work has been published on Zenodo. If you use this code or findings in your research, please cite:
+
+&gt; **[Enhanced DeepFM Optimization: Quantization, Pruning, and Distillation for Recommender Systems](https://zenodo.org/records/20989541)**  
+&gt; *Zenodo, June 2026* · DOI: `10.5281/zenodo.20989541`
+
+---
+
 ## Overview
 This repository contains a comprehensive implementation and comparative study of optimization techniques applied to the DeepFM (Deep Factorization Machine) architecture. The project systematically evaluates the trade-offs between predictive accuracy, model size, and inference latency using the MovieLens 100K dataset.
 
